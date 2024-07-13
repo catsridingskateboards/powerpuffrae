@@ -22,4 +22,6 @@ ls
 cd powerpuffrae/
 # opens visual studio code
 code .
+git config --global user.email "raenarahi10@gmail.com"
+git config --global user.name "catsridingskateboards"
 ```
